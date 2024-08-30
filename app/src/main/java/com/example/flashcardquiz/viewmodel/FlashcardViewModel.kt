@@ -8,8 +8,8 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.flashcardquiz.data.Flashcard
 import com.example.flashcardquiz.data.QuizResult
-import com.example.flashcardquiz.db.FlashcardDao
-import com.example.flashcardquiz.db.QuizResultDao
+import com.example.flashcardquiz.data.db.FlashcardDao
+import com.example.flashcardquiz.data.db.QuizResultDao
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

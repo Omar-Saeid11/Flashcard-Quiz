@@ -1,9 +1,9 @@
 package com.example.flashcardquiz.di
 
 import android.content.Context
-import com.example.flashcardquiz.db.FlashcardDao
-import com.example.flashcardquiz.db.FlashcardDatabase
-import com.example.flashcardquiz.db.QuizResultDao
+import com.example.flashcardquiz.data.db.FlashcardDao
+import com.example.flashcardquiz.data.db.FlashcardDatabase
+import com.example.flashcardquiz.data.db.QuizResultDao
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

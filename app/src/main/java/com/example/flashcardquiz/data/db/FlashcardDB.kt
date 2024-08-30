@@ -1,4 +1,4 @@
-package com.example.flashcardquiz.db
+package com.example.flashcardquiz.data.db
 
 import android.content.Context
 import androidx.room.Database
